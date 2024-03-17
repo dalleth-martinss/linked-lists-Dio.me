@@ -1,6 +1,6 @@
 public class ListaEncadeada<T> {
    
-   
+  
 No<T> referenciaEntrada;
 No<T> referenciaFinal;
 
